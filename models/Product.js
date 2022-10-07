@@ -17,7 +17,7 @@ Product.init(
       autoIncrement: true,
     },
     product_name: {
-      type: DataTypes.DECIMAL(10,2),
+      type: DataTypes.DECIMAL(10,2),//or use float <--use
       allowNull: false,
       validate: {
         isDecimal: true,
