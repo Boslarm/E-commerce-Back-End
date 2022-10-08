@@ -1,10 +1,10 @@
 # E-commerce-Back-End
 
 ## Description
-Object Relational Mapping (ORM).
+The purpose for this assignment was to build the back end for an e-commerce site through Object Relational Mapping (ORM). We took a working Express.js API and configured it to use Sequelize to interact with a MySQL database.
 
 ## Video Walkthrough
-[Video]()
+[Video](https://app.castify.com/view/1e4cdc1c-a917-4a71-884b-135e65b568ab)
 
 ## User Story
 AS A manager at an internet retail company
